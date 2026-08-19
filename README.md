@@ -1,246 +1,122 @@
 <div align="center">
 
-<!-- ===================== HEADER ===================== -->
+# ARYAN MISHRA
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00d9ff&height=280&section=header&text=ARYAN_OS&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
-  width="100%"
-/>
+### Computer Science • Software Engineering • Building in Public
+
+**B.Tech Computer Science (Business Systems) · 2023–2027 · CGPA 9.0**
 
 <br>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Initializing+Aryan+Mishra...;B.Tech+CS+(Business+Systems)+%7C+2023%E2%80%932027;Python+%7C+SQL+%7C+Web+Development;Git+%7C+GitHub+%7C+Computer+Science;Building+Software.+Learning+Engineering.;SYSTEM+STATUS%3A+ONLINE"
-  alt="Typing SVG"
-/>
-
-<br><br>
-
 <a href="https://github.com/Aryanmishragit">
-  <img src="https://img.shields.io/badge/GitHub-Aryanmishragit-0d1117?style=for-the-badge&logo=github&logoColor=00d9ff" />
+<img src="https://img.shields.io/badge/GitHub-Aryanmishragit-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/aryan-mishra-a44a61284/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d9ff" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<br><br>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=Aryanmishragit&style=for-the-badge&color=00d9ff&label=PROFILE+SIGNALS" />
+<br>
+
+---
+
+## `TECH STACK`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
 
 </div>
 
 ---
 
-# `⌘ SYSTEM CONSOLE`
+## `ABOUT`
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                     ARYAN_OS v1.0                            │
-├──────────────────────────────────────────────────────────────┤
-│ USER        : Aryan Mishra                                  │
-│ ROLE        : Computer Science Student                      │
-│ DEGREE      : B.Tech CS (Business Systems)                  │
-│ GRADUATION  : 2027                                          │
-│ CGPA        : 9.0                                           │
-│ FOCUS       : Software Engineering                          │
-│ STATUS      : BUILDING → LEARNING → IMPROVING               │
-└──────────────────────────────────────────────────────────────┘
-```
+I'm a Computer Science undergraduate focused on developing a strong foundation in **software engineering, programming, databases, web development, and computer science fundamentals**.
 
-<br>
-
-I'm a **Computer Science (Business Systems) undergraduate** focused on building a strong foundation in software development, databases, web technologies, and core computer science.
-
-My current focus is not on collecting technologies.
-
-It's on **understanding fundamentals, building projects, solving problems, and becoming capable of shipping useful software.**
+Rather than collecting technologies, I'm focused on understanding the fundamentals behind them and applying them through practical projects.
 
 ```text
 CURRENT MODE
 
-Learn → Build → Break → Debug → Understand → Improve
+Learn → Build → Debug → Ship → Improve
 ```
 
 ---
 
-# `whoami`
+## `CURRENT FOCUS`
 
-# `whoami`
-
-```text
-$ whoami
-
-Aryan Mishra
-B.Tech CS (Business Systems) | 2023–2027
-
-$ cat profile.txt
-
-ROLE        : Computer Science Student
-FOCUS       : Software Engineering
-CGPA        : 9.0
-STATUS      : BUILDING → LEARNING → IMPROVING
-
-$ ls ~/current-focus
-
-[ACTIVE]    Python
-[ACTIVE]    SQL / DBMS
-[ACTIVE]    Web Development
-[ACTIVE]    Git / GitHub
-
-[LEARNING]  Data Structures & Algorithms
-[LEARNING]  Backend Development
-[LEARNING]  Open Source
-
-$ cat ~/objective.txt
-
-Build real software.
-Strengthen computer science fundamentals.
-Learn engineering workflows.
-Contribute to projects that matter.
-
-$ echo $STATUS
-
-BUILD → DEBUG → SHIP → IMPROVE
-```
----
-
-# `⚡ TECH STACK`
-
-### Languages
-
-<p>
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00d9ff" />
-<img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00d9ff" />
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00d9ff" />
-</p>
-
-### Web
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00d9ff" />
-<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00d9ff" />
-</p>
-
-### Development Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00d9ff" />
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00d9ff" />
-<img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=00d9ff" />
-</p>
+| Area | Focus |
+| --- | --- |
+| 🐍 Python | Programming, automation & problem solving |
+| 🗄️ SQL / DBMS | Queries, database design & fundamentals |
+| 🌐 Web Development | HTML, CSS & JavaScript |
+| 🧩 DSA | Data structures & algorithmic thinking |
+| 🔧 Git / GitHub | Branching, collaboration & engineering workflow |
+| ⚙️ Backend | Building stronger server-side fundamentals |
+| 🌱 Open Source | Learning contribution workflows |
 
 ---
 
-# `🧠 CORE COMPUTER SCIENCE`
+## `CORE COMPUTER SCIENCE`
 
-```text
-Object Oriented Programming    ███████████████░░░░░
-Database Management Systems    ███████████████░░░░░
-Operating Systems              ██████████████░░░░░░
-Problem Solving                ████████████░░░░░░░░
-Web Development                ████████████░░░░░░░░
-Backend Development            ████████░░░░░░░░░░░░
-Data Structures & Algorithms   ████████░░░░░░░░░░░░
-```
+<div align="center">
 
-> These indicators represent **current learning focus**, not claimed proficiency percentages.
+| Foundation | |
+| --- | --- |
+| Object-Oriented Programming | `██████████████░░░░` |
+| Database Management Systems | `██████████████░░░░` |
+| Operating Systems | `█████████████░░░░░` |
+| Problem Solving | `████████████░░░░░░` |
+| Data Structures & Algorithms | `██████████░░░░░░░░` |
+| Web Development | `████████████░░░░░░` |
 
----
+</div>
 
-# `📡 CURRENT MISSION`
-
-```text
-$ cat ~/mission/current.txt
-```
-
-```text
-[01] Strengthen Python
-[02] Improve problem solving
-[03] Master SQL + DBMS fundamentals
-[04] Build stronger web applications
-[05] Learn backend development
-[06] Master Git & GitHub workflows
-[07] Practice Data Structures & Algorithms
-[08] Build meaningful projects
-[09] Make open-source contributions
-[10] Become production-ready
-```
+> Progress bars represent current learning focus, not claimed proficiency percentages.
 
 ---
 
-# `🚀 ENGINEERING FOCUS`
+## `PROJECTS`
 
-<table>
-<tr>
-<td width="50%">
+> Projects will be listed here as they become substantial enough to demonstrate real engineering ability.
 
-### 🧩 Problem Solving
+<div align="center">
 
-Breaking complex problems into smaller, understandable components.
+| Project | Description | Stack |
+| --- | --- | --- |
+| 🚧 **Coming Soon** | Building practical software projects | Python · SQL · Web |
+| 🚧 **In Progress** | More projects will appear here | Web · Backend |
+| 🚧 **Exploring** | Open-source contributions & experiments | Git · GitHub |
 
-</td>
-
-<td width="50%">
-
-### 🏗️ Software Development
-
-Building practical applications instead of only following tutorials.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🗄️ Databases
-
-Improving SQL knowledge and understanding how data is structured and managed.
-
-</td>
-
-<td width="50%">
-
-### 🔧 Engineering Workflow
-
-Learning Git, GitHub, branching, pull requests, conflicts, and collaborative workflows.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌐 Web Development
-
-Building responsive interfaces and gradually moving toward backend development.
-
-</td>
-
-<td width="50%">
-
-### 📚 CS Fundamentals
-
-Strengthening OOP, DBMS, operating systems, and other core concepts.
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-# `📊 GITHUB TELEMETRY`
+## `GITHUB ACTIVITY`
 
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Aryanmishragit&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&ring_color=00d9ff"
-  height="180"
+src="https://github-readme-stats-fast.vercel.app/api?username=Aryanmishragit&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=111827&text_color=4b5563&icon_color=C41E3A"
+height="180"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanmishragit&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"
-  height="180"
+src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Aryanmishragit&layout=compact&hide_border=true&bg_color=00000000&title_color=111827&text_color=4b5563"
+height="180"
 />
 
 </div>
@@ -250,214 +126,88 @@ Strengthening OOP, DBMS, operating systems, and other core concepts.
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=Aryanmishragit&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"
-  width="70%"
+src="https://streak-stats.demolab.com?user=Aryanmishragit&hide_border=true&background=FFFFFF00&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A"
+width="70%"
 />
 
 </div>
 
 ---
 
-# `📈 CONTRIBUTION MATRIX`
+## `LEADERSHIP`
 
-<div align="center">
+My technical development is supported by experience working with teams, coordinating people, and taking responsibility for execution.
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Aryanmishragit&bg_color=0d1117&color=c9d1d9&line=00d9ff&point=ffffff&area=true&hide_border=true"
-  width="95%"
-/>
+| Role | Area |
+| --- | --- |
+| **Founder & President** | Vertex · BVDU-DET |
+| **Student Body President** | IIC · BVDUDET |
+| **Placement Coordinator** | Training & Placement Cell |
+| **PR Co-Head** | E-Cell |
+| **Co-Secretary** | Discipline Committee |
 
-</div>
+### Skills developed through leadership
+
+`Communication` · `Teamwork` · `Coordination` · `Responsibility` · `Adaptability` · `Problem Solving`
 
 ---
 
-# `🏆 LEADERSHIP COMMAND CENTER`
+## `ROADMAP`
 
 ```text
-$ ./leadership --status
-
-[✓] Founder & President
-    Vertex — BVDU-DET
-
-[✓] Student Body President
-    IIC — BVDUDET
-
-[✓] Placement Coordinator
-    Training & Placement Cell
-
-[✓] PR Co-Head
-    E-Cell
-
-[✓] Co-Secretary
-    Discipline Committee
-```
-
-Leadership has helped me develop skills beyond technical work:
-
-```text
-Communication
-Team Collaboration
-Problem Solving
-Responsibility
-Adaptability
-Event Coordination
-Decision Making
+2026
+ │
+ ├── Python + Problem Solving
+ │
+ ├── SQL + DBMS
+ │
+ ├── Web Development
+ │
+ ├── Data Structures & Algorithms
+ │
+ ├── Backend Development
+ │
+ ├── Git + GitHub
+ │
+ └── Open Source
+       │
+       ▼
+2027
+ │
+ └── Production-ready Software Engineering
 ```
 
 ---
 
-# `🧪 SYSTEM DIAGNOSTIC`
+## `ENGINEERING PRINCIPLES`
 
 ```text
-$ ./diagnostic.sh
-
-Running system diagnostics...
-
-[✓] Curiosity               ONLINE
-[✓] Problem Solving         ONLINE
-[✓] Team Collaboration      ONLINE
-[✓] Learning System         ACTIVE
-[✓] Git/GitHub              ACTIVE
-[✓] Python                  ACTIVE
-[✓] SQL                     ACTIVE
-[✓] Web Development         ACTIVE
-
-[!] Backend Development     IN PROGRESS
-[!] Data Structures         IN PROGRESS
-[!] Algorithms              IN PROGRESS
-[!] Open Source             IN PROGRESS
-
-----------------------------------------------
-
-SYSTEM MESSAGE:
-
-Don't confuse being finished with being good.
-
-Current objective:
-
-BUILD → BREAK → DEBUG → LEARN → REPEAT
+01  Understand before memorizing.
+02  Build before claiming expertise.
+03  Read documentation.
+04  Debug systematically.
+05  Use Git as an engineering tool.
+06  Learn fundamentals before chasing frameworks.
+07  Write code other people can understand.
+08  Let projects prove the skills listed on the profile.
 ```
 
 ---
 
-# `🗺️ 2026 ENGINEERING ROADMAP`
-
-```text
-                         ┌─────────────────┐
-                         │  Python + DSA   │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │  SQL + DBMS     │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │  Web Development│
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │ Backend Systems │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │  Open Source    │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │    Production   │
-                         │   Engineering   │
-                         └─────────────────┘
-```
-
----
-
-# `📂 WHAT I'M BUILDING`
-
-As my skills develop, this section will become the evidence behind the profile.
-
-```text
-PROJECT PIPELINE
-
-[01] Web Development Projects
-     └── HTML / CSS / JavaScript
-
-[02] Python Projects
-     └── Automation / utilities / applications
-
-[03] Database Projects
-     └── SQL / DBMS / data-driven applications
-
-[04] Full-Stack Projects
-     └── Frontend + Backend + Database
-
-[05] Open Source
-     └── Issues → Pull Requests → Contributions
-```
-
-> Projects will be added here as they become substantial enough to demonstrate engineering ability.
-
----
-
-# `🎯 ENGINEERING PRINCIPLES`
-
-```text
-01. Understand before memorizing.
-
-02. Build before claiming expertise.
-
-03. Read documentation.
-
-04. Write code that other people can understand.
-
-05. Use Git as an engineering tool, not just a backup system.
-
-06. Debug systematically instead of randomly changing things.
-
-07. Learn fundamentals before chasing frameworks.
-
-08. Let projects prove the skills listed on the profile.
-```
-
----
-
-# `📡 CONNECT`
+## `CONNECT`
 
 <div align="center">
 
 <a href="https://github.com/Aryanmishragit">
-<img src="https://img.shields.io/badge/GitHub-Aryanmishragit-0d1117?style=for-the-badge&logo=github&logoColor=00d9ff" />
+<img src="https://img.shields.io/badge/GitHub-Aryanmishragit-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/aryan-mishra-a44a61284/">
-<img src="https://img.shields.io/badge/LinkedIn-Aryan_Mishra-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d9ff" />
+<img src="https://img.shields.io/badge/LinkedIn-Aryan%20Mishra-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║              BUILD SOMETHING WORTH SHIPPING.                 ║
-║                                                              ║
-║             Learn → Build → Ship → Improve                   ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<br>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:302b63,100:0f0c29&height=120&section=footer"
-  width="100%"
-/>
+**Build → Ship → Learn → Repeat**
 
 </div>
