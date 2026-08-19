@@ -1,1 +1,58 @@
+name: README
 
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Validate README exists
+        run: |
+          set -euo pipefail
+          test -f README.md
+
+      - name: Validate profile sections
+        run: |
+          set -euo pipefail
+
+          grep -q "ARYAN MISHRA" README.md
+          grep -q "TECH STACK" README.md
+          grep -q "ABOUT" README.md
+          grep -q "CURRENT FOCUS" README.md
+          grep -q "CORE COMPUTER SCIENCE" README.md
+          grep -q "PROJECTS" README.md
+          grep -q "GITHUB ACTIVITY" README.md
+          grep -q "LEADERSHIP" README.md
+          grep -q "ROADMAP" README.md
+          grep -q "CONNECT" README.md
+
+      - name: Validate GitHub profile links
+        run: |
+          set -euo pipefail
+
+          grep -q "github.com/Aryanmishragit" README.md
+          grep -q "linkedin.com/in/aryan-mishra-a44a61284" README.md
+
+      - name: Validate Pages surface
+        run: |
+          set -euo pipefail
+
+          test -f docs/index.html
+          test -f docs/assets/favicon.svg
+          test -f docs/assets/social-preview.svg
+
+          grep -q "Aryan Mishra" docs/index.html
+          grep -q "og:image" docs/index.html
+          grep -q "twitter:image" docs/index.html
