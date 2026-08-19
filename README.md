@@ -136,16 +136,7 @@ width="70%"
 
 ---
 
-## `CONTRIBUTION ACTIVITY`
 
-<div align="center">
-
-<img
-src="https://raw.githubusercontent.com/Aryanmishragit/Aryanmishragit/output/github-snake.svg"
-alt="GitHub contribution snake"
-/>
-
-</div>
 
 
 ## `LEADERSHIP`
