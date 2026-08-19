@@ -66,31 +66,43 @@ Learn → Build → Break → Debug → Understand → Improve
 
 # `whoami`
 
+# `whoami`
+
 ```text
 $ whoami
 
 Aryan Mishra
+B.Tech CS (Business Systems) | 2023–2027
 
 $ cat profile.txt
 
-Computer Science student
-Interested in software engineering and development.
+ROLE        : Computer Science Student
+FOCUS       : Software Engineering
+CGPA        : 9.0
+STATUS      : BUILDING → LEARNING → IMPROVING
 
-Currently working on:
-→ Python
-→ SQL & databases
-→ Web development
-→ Git & GitHub
-→ Data Structures & Algorithms
-→ Backend development
-→ Open source
+$ ls ~/current-focus
 
-Long-term objective:
-Become a strong software engineer by building real systems,
-understanding computer science fundamentals, and contributing
-to meaningful projects.
+[ACTIVE]    Python
+[ACTIVE]    SQL / DBMS
+[ACTIVE]    Web Development
+[ACTIVE]    Git / GitHub
+
+[LEARNING]  Data Structures & Algorithms
+[LEARNING]  Backend Development
+[LEARNING]  Open Source
+
+$ cat ~/objective.txt
+
+Build real software.
+Strengthen computer science fundamentals.
+Learn engineering workflows.
+Contribute to projects that matter.
+
+$ echo $STATUS
+
+BUILD → DEBUG → SHIP → IMPROVE
 ```
-
 ---
 
 # `⚡ TECH STACK`
