@@ -145,7 +145,8 @@ My technical development is supported by experience working with teams, coordina
 
 | Role | Area |
 | --- | --- |
-| **Founder & President** | Vertex · BVDU-DET |
+
+| **Joint-General Secretary** | Student Council · BVDU-DET |
 | **Student Body President** | IIC · BVDUDET |
 | **Placement Coordinator** | Training & Placement Cell |
 | **PR Co-Head** | E-Cell |
